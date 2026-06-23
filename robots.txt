@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaaaaaaaa222121.github.io/sankoh-auto.jp.com/sitemap.xml
